@@ -578,7 +578,7 @@ export default function App() {
                             <div className="p-4 flex flex-col gap-4">
                                 
                                 <div className="flex w-full">
-                                    <a href=[https://share.gemini.google/MSSWk58rW21O]" target="_blank" rel="noopener noreferrer" className="w-full flex items-center justify-between bg-[#0891B3] hover:bg-[#06738F] text-white font-bold py-3 px-4 rounded-lg transition shadow-md text-xs tracking-wide hover:-translate-y-0.5 duration-200 uppercase">
+                                    <a href="https://share.gemini.google/MSSWk58rW21O" target="_blank" rel="noopener noreferrer" className="w-full flex items-center justify-between bg-[#0891B3] hover:bg-[#06738F] text-white font-bold py-3 px-4 rounded-lg transition shadow-md text-xs tracking-wide hover:-translate-y-0.5 duration-200 uppercase">
                                         <span>Akses Generate Motion (TXT)</span>
                                         <ExternalLinkIcon className="w-4 h-4 opacity-90" />
                                     </a>
