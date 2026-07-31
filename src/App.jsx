@@ -4,7 +4,7 @@ import React, { useState, useEffect, useRef } from 'react';
 // === TEMPAT MENGISI URL HUGGING FACE (BISA BANYAK, OTOMATIS DIACAK) ===
 // =====================================================================
 const HUGGING_FACE_URLS = [
-    "https://isasatu-render-mp4-1.hf.space",
+    "https://isasatu-render-mp4-1.hf.space/",
     // Tambahkan URL lain di bawah ini jika punya lebih banyak:
     // "https://isaproject-render-mp4-2.hf.space",
     // "https://isaproject-render-mp4-3.hf.space"
